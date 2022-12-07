@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=JungHyunMoon%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=JungHyunMoon&fontSize=90)
