@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA6588,100:5AACD7&height=200&section=header&text=Back-end%20Student&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Back-end%20Student&fontSize=40)
