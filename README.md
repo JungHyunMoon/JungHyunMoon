@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <!-- 응애 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
 
-<p align="center">
 <h3 align="center"><b>🌱Currently learning🌱</b></h3>
+</br>
+<p align="center">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
