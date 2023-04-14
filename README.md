@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
 
-<h3>임시</h3>
-https://www.notion.so/Junior-Developer-40dad735f66943b493be2aefe8a6123a?pvs=4
+<h3>Notion</h3>
+[https://www.notion.so/Junior-Developer-40dad735f66943b493be2aefe8a6123a?pvs=4](https://speckle-skiff-21a.notion.site/Junior-Developer-e4187728fa244969b6930f9a553d9835)
