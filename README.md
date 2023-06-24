@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Back-end%20Student&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JungHyunMoon&fontSize=30)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
