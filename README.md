@@ -34,6 +34,3 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
-
-<h3>Notion</h3>
-(https://speckle-skiff-21a.notion.site/Junior-Developer-e4187728fa244969b6930f9a553d9835)
