@@ -25,12 +25,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-89A426?style=for-the-badge&logo=java&logoColor=white" height="25" /> 
 <img src="https://img.shields.io/badge/jQuery-D17001?style=for-the-badge&logo=jquery&logoColor=white" height="25" /> 
 <img src="https://img.shields.io/badge/R-2C2D72?style=for-the-badge&logo=R&logoColor=white" height="25" />
-
-
-<!-- 응애 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
-
-<h3 align="center"><b>🌱Currently learning🌱</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> &nbsp
