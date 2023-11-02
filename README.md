@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHyunMoon&show_icons=true&theme=radical)
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -23,6 +25,3 @@ Here are some ideas to get you started:
 
 <br>
 <img src="https://img.shields.io/badge/Java-89A426?style=for-the-badge&logo=java&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/jQuery-D17001?style=for-the-badge&logo=jquery&logoColor=white" height="25" /> 
-<img src="https://img.shields.io/badge/R-2C2D72?style=for-the-badge&logo=R&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
