@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHyunMoon&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JungHyunMooon%20render&fontSize=90)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
