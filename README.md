@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 
 <br>
-<img src="https://img.shields.io/badge/Java-89A426?style=for-the-badge&logo=java&logoColor=white" height="25" /> 
+<img src="https://img.shields.io/badge/Java-89A426?style=for-the-badge&logo=Java&logoColor=white" height="25" /> 
