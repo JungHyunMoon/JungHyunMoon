@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,&nbsp;there!&fontSize=90)
 
-GitHub Readme Stats: github-readme-stats.vercel.app/api?username={JungHyunMoon}&show_icons=true
+GitHub Readme Stats: github-readme-stats.vercel.app/api?username=JungHyunMoon&show_icons=true
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
