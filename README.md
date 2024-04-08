@@ -12,19 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,&nbsp;there!&fontSize=90)
+
+### 🌱Junior Backend Developer🌱
+
+
+
+- 종합 스포츠 플랫폼 SportsEcho [레포지토리](https://github.com/JungHyunMoon/EchoProject-BE)
+  - 다양한 스포츠의 최신 경기 일정 및 실시간 점수를 제공합니다.
+  - 스포츠 관련 용품을 구매하고 핫딜 이벤트로 저렴하게 구매할 수 있습니다.
+
+- 부동산 중개 플랫폼 MyRoom [레포지토리](https://github.com/JungHyunMoon/project_myroom)
+  - 부동산 정보 검색 및 등록, 방문 예약을 제공합니다.
+  - 인증된 공인 중개사만 가입하여 매물 중개 서비스를 제공합니다.
+
+
+<div align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHyunMoon&theme=dark&show_icons=true)](https://github.com/JungHyunMoon/github-readme-stats)
-
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-
-<br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/>
-
+  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@foqlzm12345/posts/)](https://velog.io/@foqlzm12345/posts/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foqlzm12345@gmail.com)](mailto:foqlzm12345@gmail.com)
+</div>
