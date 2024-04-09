@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 🌱Junior Backend Developer🌱
 
-
+---
 
 - 종합 스포츠 플랫폼 SportsEcho [Readme!](https://github.com/JungHyunMoon/EchoProject-BE)
   - 다양한 스포츠의 최신 경기 일정 및 실시간 점수를 제공합니다.
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   - 부동산 정보 검색 및 등록, 방문 예약을 제공합니다.
   - 인증된 공인 중개사만 가입하여 매물 중개 서비스를 제공합니다.
 
+---
 
 <div align=center>
 
