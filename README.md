@@ -28,10 +28,15 @@ Here are some ideas to get you started:
 
 ---
 
-<div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHyunMoon&theme=dark&show_icons=true)](https://github.com/JungHyunMoon/github-readme-stats)
+<div align=center>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=JungHyunMoon&theme=dark&show_icons=true" />
+    <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyunMoon&layout=compact&theme=nord&hide_border=true" />
+  </div>
+
+  <br>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@foqlzm12345/posts/)](https://velog.io/@foqlzm12345/posts/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foqlzm12345@gmail.com)](mailto:foqlzm12345@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@foqlzm12345/posts/)](https://velog.io/@foqlzm12345/posts/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foqlzm12345@gmail.com)](mailto:foqlzm12345@gmail.com)
 </div>
