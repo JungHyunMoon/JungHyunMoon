@@ -28,14 +28,15 @@ Here are some ideas to get you started:
 
 ---
 
+
+
+<div align=center>
+
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=JungHyunMoon&theme=dark&show_icons=true" />
     <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyunMoon&layout=compact&theme=nord&hide_border=true" />
   </div>
-
-<div align=center>
-
-
+  
   <br>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@foqlzm12345/posts/)](https://velog.io/@foqlzm12345/posts/)
