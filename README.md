@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱Junior Backend Developer🌱
-잠깐! 여기까지 들어오셨다면 프로젝트의 Readme까지 보고 가세요:)
+😄 Currently focusing on AI.
+
 
 ---
 
