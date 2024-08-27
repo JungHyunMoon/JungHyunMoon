@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <img align="center" style="height: 200px; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=JungHyunMoon&theme=dark&show_icons=true" />
-    <img align="center" style="height: 200px; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyunMoon&layout=compact&theme=nord&hide_border=true" />
   </div>
   
   <br>
