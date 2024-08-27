@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱Junior Backend Developer🌱
-😄 Currently focusing on AI.
+😄 I'm currently working on Financial Link
 
+🔭 Currently focusing on Chat Bot.
+
+📫 How to reach me
+
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@foqlzm12345/posts/)](https://velog.io/@foqlzm12345/posts/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:foqlzm12345@gmail.com)](mailto:foqlzm12345@gmail.com)
 
 ---
 
