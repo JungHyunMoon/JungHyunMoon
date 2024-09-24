@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 ---
 
 
-
 <div align=center>
 
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img align="center" style="height: 200px; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=JungHyunMoon&theme=dark&show_icons=true" />
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JungHyunMoon&theme=dark&show_icons=true" style="width: 45%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyunMoon" style="width: 45%; height: 200px;" />
   </div>
-  
+
   <br>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@foqlzm12345/posts/)](https://velog.io/@foqlzm12345/posts/)
