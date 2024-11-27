@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=JungHyunMoon&theme=dark&show_icons=true" style="width: 45%; height: 200px;" />
+    <img src="https://velog-github-badge.vercel.app/badge/foqlzm12345" style="width: 45%; height: 200px;" />
   </div>
 
   <br>
